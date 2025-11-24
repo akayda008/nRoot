@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[38643,["/_next/static/chunks/0e1a3e53dfe3b971.js","/_next/static/chunks/553b324627313a1c.js"],"ViewportBoundary"]
+4:I[38643,["/_next/static/chunks/0e1a3e53dfe3b971.js","/_next/static/chunks/553b324627313a1c.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+:HL["/_next/static/chunks/0bca359e895fcaa7.css","style"]
+0:{"buildId":"BJqZk5BYOtDDDbDxZfCGq","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"our-projects","paramType":null,"paramKey":"our-projects","hasRuntimePrefetch":false,"slots":{"children":{"name":"reengineered-projects","paramType":null,"paramKey":"reengineered-projects","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Reengineered Projects | nRoot Technologies Pvt. Ltd."}],["$","meta","1",{"name":"description","content":"Explore nRoot Technologies’ Reengineered projects that revitalize existing systems with modern technologies and enhanced efficiency."}],["$","meta","2",{"name":"keywords","content":"nRoot Technologies,Reengineered projects,System modernization,Process improvement,Technology upgrade,Digital transformation"}]]
