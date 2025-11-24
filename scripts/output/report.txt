@@ -1,0 +1,19 @@
+Project Map Report - 19/11/2025, 1:01:36 pm
+
+Root: W:\nRoot\web
+Files scanned: 149
+Code files: 101
+Assets: 33
+
+Unused components: 53
+Duplicate groups: 1
+Large files: 27
+Orphan images: 33
+
+Output files written to: W:\nRoot\web\scripts\output
+
+-- Top suggestions --
+- Found 53 component files that are not imported anywhere (possible dead code). Consider removing or consolidating them.
+- Found 1 groups of duplicate files. Consider consolidating duplicates to reduce maintenance.
+- Found 27 large files (>= 200 KB). Consider optimizing images or moving to a CDN.
+- Some files use <Image> without width/height or fill; consider adding dimensions or using fill with aspect-ratio container for Next.js optimization.

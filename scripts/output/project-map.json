@@ -1,0 +1,2897 @@
+{
+  "generatedAt": "2025-11-19T07:31:32.478Z",
+  "root": "W:\\nRoot\\web",
+  "stats": {
+    "totalFiles": 149,
+    "codeFiles": 101,
+    "assetFiles": 33
+  },
+  "pages": [
+    "app\\about-us\\page.js",
+    "app\\awards-and-achievements\\page.js",
+    "app\\consultancy-services\\page.js",
+    "app\\consultancy-services\\project-management\\page.js",
+    "app\\consultancy-services\\research-and-development\\page.js",
+    "app\\consultancy-services\\skill-development-and-placement\\page.js",
+    "app\\contact-us\\page.js",
+    "app\\gallery-and-events\\page.js",
+    "app\\layout.js",
+    "app\\our-projects\\brownfield-projects\\page.js",
+    "app\\our-projects\\greenfield-projects\\page.js",
+    "app\\our-projects\\indigenization\\page.js",
+    "app\\our-projects\\page.js",
+    "app\\our-projects\\reengineered-projects\\page.js",
+    "app\\page.js",
+    "app\\patrons-and-partners\\page.js"
+  ],
+  "routes": {
+    "/about-us": "app\\about-us\\page.js",
+    "/awards-and-achievements": "app\\awards-and-achievements\\page.js",
+    "/consultancy-services": "app\\consultancy-services\\page.js",
+    "/consultancy-services/project-management": "app\\consultancy-services\\project-management\\page.js",
+    "/consultancy-services/research-and-development": "app\\consultancy-services\\research-and-development\\page.js",
+    "/consultancy-services/skill-development-and-placement": "app\\consultancy-services\\skill-development-and-placement\\page.js",
+    "/contact-us": "app\\contact-us\\page.js",
+    "/gallery-and-events": "app\\gallery-and-events\\page.js",
+    "/layout.js": "app\\layout.js",
+    "/our-projects/brownfield-projects": "app\\our-projects\\brownfield-projects\\page.js",
+    "/our-projects/greenfield-projects": "app\\our-projects\\greenfield-projects\\page.js",
+    "/our-projects/indigenization": "app\\our-projects\\indigenization\\page.js",
+    "/our-projects": "app\\our-projects\\page.js",
+    "/our-projects/reengineered-projects": "app\\our-projects\\reengineered-projects\\page.js",
+    "/page.js": "app\\page.js",
+    "/patrons-and-partners": "app\\patrons-and-partners\\page.js"
+  },
+  "componentList": [
+    "components\\about-us\\AboutOverview.js",
+    "components\\about-us\\AboutPeople.js",
+    "components\\about-us\\AboutText.js",
+    "components\\awards-and-achievements\\AwardsList.js",
+    "components\\awards-and-achievements\\AwardsOverview.js",
+    "components\\consultancy-services\\ConsultancyOverview.js",
+    "components\\consultancy-services\\ConsultancyProjectManagement.js",
+    "components\\consultancy-services\\ConsultancyResearchAndDevelopment.js",
+    "components\\consultancy-services\\ConsultancySkillDevelopmentPlacement.js",
+    "components\\consultancy-services\\project-management\\ProjectManagementOverview.js",
+    "components\\consultancy-services\\project-management\\ProjectManagementServices.js",
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentOverview.js",
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentServices.js",
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementOverview.js",
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementServices.js",
+    "components\\contact-us\\ContactDetails.js",
+    "components\\contact-us\\ContactForm.js",
+    "components\\contact-us\\ContactInfo.js",
+    "components\\contact-us\\ContactMap.js",
+    "components\\Footer.js",
+    "components\\gallery-and-events\\GalleryEventsEvents.js",
+    "components\\gallery-and-events\\GalleryEventsImages.js",
+    "components\\gallery-and-events\\GalleryEventsOverview.js",
+    "components\\Header.js",
+    "components\\helper\\CardWithModal.js",
+    "components\\helper\\FullscreenViewer.js",
+    "components\\helper\\ImageCarousel.js",
+    "components\\helper\\MarqueeCarousel.js",
+    "components\\helper\\MiniCardWithModal.js",
+    "components\\helper\\ModalContainer.js",
+    "components\\helper\\Overview.js",
+    "components\\helper\\ProjectSection.js",
+    "components\\helper\\SectionWrapper.js",
+    "components\\helper\\useMarkdownParser.js",
+    "components\\home\\HomeAbout.js",
+    "components\\home\\HomeLanding.js",
+    "components\\home\\HomePartners.js",
+    "components\\home\\HomeProjects.js",
+    "components\\our-projects\\brownfield-projects\\BrownfieldOverview.js",
+    "components\\our-projects\\brownfield-projects\\BrownfieldProjects.js",
+    "components\\our-projects\\greenfield-projects\\GreenfieldOverview.js",
+    "components\\our-projects\\greenfield-projects\\GreenfieldProjects.js",
+    "components\\our-projects\\indigenization\\IndigenizationOverview.js",
+    "components\\our-projects\\indigenization\\IndigenizationProjects.js",
+    "components\\our-projects\\ProjectsBrownfield.js",
+    "components\\our-projects\\ProjectsGreenfield.js",
+    "components\\our-projects\\ProjectsIndigenization.js",
+    "components\\our-projects\\ProjectsOverview.js",
+    "components\\our-projects\\ProjectsReengineered.js",
+    "components\\our-projects\\reengineered-projects\\ReengineeredOverview.js",
+    "components\\our-projects\\reengineered-projects\\ReengineeredProjects.js",
+    "components\\patrons-and-partners\\PatronsPartnersCarousel.js",
+    "components\\patrons-and-partners\\PatronsPartnersOverview.js"
+  ],
+  "componentUsage": {
+    "components\\about-us\\AboutOverview.js": [],
+    "components\\about-us\\AboutPeople.js": [],
+    "components\\about-us\\AboutText.js": [],
+    "components\\awards-and-achievements\\AwardsList.js": [],
+    "components\\awards-and-achievements\\AwardsOverview.js": [],
+    "components\\consultancy-services\\ConsultancyOverview.js": [],
+    "components\\consultancy-services\\ConsultancyProjectManagement.js": [],
+    "components\\consultancy-services\\ConsultancyResearchAndDevelopment.js": [],
+    "components\\consultancy-services\\ConsultancySkillDevelopmentPlacement.js": [],
+    "components\\consultancy-services\\project-management\\ProjectManagementOverview.js": [],
+    "components\\consultancy-services\\project-management\\ProjectManagementServices.js": [],
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentOverview.js": [],
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentServices.js": [],
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementOverview.js": [],
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementServices.js": [],
+    "components\\contact-us\\ContactDetails.js": [],
+    "components\\contact-us\\ContactForm.js": [],
+    "components\\contact-us\\ContactInfo.js": [],
+    "components\\contact-us\\ContactMap.js": [],
+    "components\\Footer.js": [],
+    "components\\gallery-and-events\\GalleryEventsEvents.js": [],
+    "components\\gallery-and-events\\GalleryEventsImages.js": [],
+    "components\\gallery-and-events\\GalleryEventsOverview.js": [],
+    "components\\Header.js": [],
+    "components\\helper\\CardWithModal.js": [],
+    "components\\helper\\FullscreenViewer.js": [],
+    "components\\helper\\ImageCarousel.js": [],
+    "components\\helper\\MarqueeCarousel.js": [],
+    "components\\helper\\MiniCardWithModal.js": [],
+    "components\\helper\\ModalContainer.js": [],
+    "components\\helper\\Overview.js": [],
+    "components\\helper\\ProjectSection.js": [],
+    "components\\helper\\SectionWrapper.js": [],
+    "components\\helper\\useMarkdownParser.js": [],
+    "components\\home\\HomeAbout.js": [],
+    "components\\home\\HomeLanding.js": [],
+    "components\\home\\HomePartners.js": [],
+    "components\\home\\HomeProjects.js": [],
+    "components\\our-projects\\brownfield-projects\\BrownfieldOverview.js": [],
+    "components\\our-projects\\brownfield-projects\\BrownfieldProjects.js": [],
+    "components\\our-projects\\greenfield-projects\\GreenfieldOverview.js": [],
+    "components\\our-projects\\greenfield-projects\\GreenfieldProjects.js": [],
+    "components\\our-projects\\indigenization\\IndigenizationOverview.js": [],
+    "components\\our-projects\\indigenization\\IndigenizationProjects.js": [],
+    "components\\our-projects\\ProjectsBrownfield.js": [],
+    "components\\our-projects\\ProjectsGreenfield.js": [],
+    "components\\our-projects\\ProjectsIndigenization.js": [],
+    "components\\our-projects\\ProjectsOverview.js": [],
+    "components\\our-projects\\ProjectsReengineered.js": [],
+    "components\\our-projects\\reengineered-projects\\ReengineeredOverview.js": [],
+    "components\\our-projects\\reengineered-projects\\ReengineeredProjects.js": [],
+    "components\\patrons-and-partners\\PatronsPartnersCarousel.js": [],
+    "components\\patrons-and-partners\\PatronsPartnersOverview.js": []
+  },
+  "unusedComponents": [
+    "components\\about-us\\AboutOverview.js",
+    "components\\about-us\\AboutPeople.js",
+    "components\\about-us\\AboutText.js",
+    "components\\awards-and-achievements\\AwardsList.js",
+    "components\\awards-and-achievements\\AwardsOverview.js",
+    "components\\consultancy-services\\ConsultancyOverview.js",
+    "components\\consultancy-services\\ConsultancyProjectManagement.js",
+    "components\\consultancy-services\\ConsultancyResearchAndDevelopment.js",
+    "components\\consultancy-services\\ConsultancySkillDevelopmentPlacement.js",
+    "components\\consultancy-services\\project-management\\ProjectManagementOverview.js",
+    "components\\consultancy-services\\project-management\\ProjectManagementServices.js",
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentOverview.js",
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentServices.js",
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementOverview.js",
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementServices.js",
+    "components\\contact-us\\ContactDetails.js",
+    "components\\contact-us\\ContactForm.js",
+    "components\\contact-us\\ContactInfo.js",
+    "components\\contact-us\\ContactMap.js",
+    "components\\Footer.js",
+    "components\\gallery-and-events\\GalleryEventsEvents.js",
+    "components\\gallery-and-events\\GalleryEventsImages.js",
+    "components\\gallery-and-events\\GalleryEventsOverview.js",
+    "components\\Header.js",
+    "components\\helper\\CardWithModal.js",
+    "components\\helper\\FullscreenViewer.js",
+    "components\\helper\\ImageCarousel.js",
+    "components\\helper\\MarqueeCarousel.js",
+    "components\\helper\\MiniCardWithModal.js",
+    "components\\helper\\ModalContainer.js",
+    "components\\helper\\Overview.js",
+    "components\\helper\\ProjectSection.js",
+    "components\\helper\\SectionWrapper.js",
+    "components\\helper\\useMarkdownParser.js",
+    "components\\home\\HomeAbout.js",
+    "components\\home\\HomeLanding.js",
+    "components\\home\\HomePartners.js",
+    "components\\home\\HomeProjects.js",
+    "components\\our-projects\\brownfield-projects\\BrownfieldOverview.js",
+    "components\\our-projects\\brownfield-projects\\BrownfieldProjects.js",
+    "components\\our-projects\\greenfield-projects\\GreenfieldOverview.js",
+    "components\\our-projects\\greenfield-projects\\GreenfieldProjects.js",
+    "components\\our-projects\\indigenization\\IndigenizationOverview.js",
+    "components\\our-projects\\indigenization\\IndigenizationProjects.js",
+    "components\\our-projects\\ProjectsBrownfield.js",
+    "components\\our-projects\\ProjectsGreenfield.js",
+    "components\\our-projects\\ProjectsIndigenization.js",
+    "components\\our-projects\\ProjectsOverview.js",
+    "components\\our-projects\\ProjectsReengineered.js",
+    "components\\our-projects\\reengineered-projects\\ReengineeredOverview.js",
+    "components\\our-projects\\reengineered-projects\\ReengineeredProjects.js",
+    "components\\patrons-and-partners\\PatronsPartnersCarousel.js",
+    "components\\patrons-and-partners\\PatronsPartnersOverview.js"
+  ],
+  "fileFeatures": {
+    "app\\about-us\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\awards-and-achievements\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\consultancy-services\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\consultancy-services\\project-management\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\consultancy-services\\research-and-development\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\consultancy-services\\skill-development-and-placement\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\contact-us\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\gallery-and-events\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\layout.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 3,
+      "classes": [
+        "min-h-screen",
+        "grid",
+        "grid-rows-[auto_1fr_auto]"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\our-projects\\brownfield-projects\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\our-projects\\greenfield-projects\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\our-projects\\indigenization\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\our-projects\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\our-projects\\reengineered-projects\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "app\\patrons-and-partners\\page.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "flex",
+        "flex-col"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\about-us\\AboutOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\about-us\\AboutPeople.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 16,
+      "classes": [
+        "flex",
+        "flex-col",
+        "items-center",
+        "text-center",
+        "gap-10",
+        "px-6",
+        "sm:px-12",
+        "lg:px-20",
+        "text-2xl",
+        "sm:text-3xl",
+        "font-semibold",
+        "text-gray-900",
+        "flex-wrap",
+        "justify-center",
+        "gap-8"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\about-us\\AboutText.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\awards-and-achievements\\AwardsList.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 16,
+      "classes": [
+        "flex",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "w-full",
+        "px-6",
+        "py-12",
+        "gap-10",
+        "text-2xl",
+        "sm:text-3xl",
+        "font-semibold",
+        "text-gray-900",
+        "flex-wrap",
+        "gap-8"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\awards-and-achievements\\AwardsOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\ConsultancyOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\ConsultancyProjectManagement.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\ConsultancyResearchAndDevelopment.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\ConsultancySkillDevelopmentPlacement.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\project-management\\ProjectManagementOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\project-management\\ProjectManagementServices.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 4,
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-12",
+        "py-12"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentServices.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 4,
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-12",
+        "py-12"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementServices.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 4,
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-12",
+        "py-12"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\contact-us\\ContactDetails.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 16,
+      "classes": [
+        "flex",
+        "w-full",
+        "flex-wrap",
+        "gap-8",
+        "justify-center",
+        "items-stretch",
+        "flex-1",
+        "min-w-[300px]",
+        "max-w-[45%]"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\contact-us\\ContactForm.js": {
+      "hooks": [
+        "useState"
+      ],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 55,
+      "classes": [
+        "w-full",
+        "max-w-md",
+        "mx-auto",
+        "text-2xl",
+        "font-semibold",
+        "text-center",
+        "flex",
+        "flex-col",
+        "gap-1",
+        "font-medium",
+        "mb-1",
+        "p-2",
+        "border",
+        "border-gray-300",
+        "rounded-md",
+        "bg-blue-600",
+        "text-white",
+        "py-2",
+        "hover:bg-blue-700",
+        "transition-colors"
+      ],
+      "hasForm": true,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\contact-us\\ContactInfo.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 30,
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-4",
+        "p-6",
+        "bg-gray-50",
+        "rounded-xl",
+        "shadow-md",
+        "flex-1",
+        "text-2xl",
+        "font-semibold",
+        "text-gray-800",
+        "text-gray-700",
+        "text-blue-600",
+        "hover:text-blue-800",
+        "mt-2",
+        "font-medium"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\contact-us\\ContactMap.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 9,
+      "classes": [
+        "w-full",
+        "h-full",
+        "rounded-xl",
+        "overflow-hidden",
+        "shadow-md",
+        "flex-1",
+        "border-0"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\Footer.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 56,
+      "classes": [
+        "bg-[#1e1e2f]",
+        "text-white",
+        "mt-auto",
+        "shadow-t-lg",
+        "max-w-7xl",
+        "mx-auto",
+        "px-10",
+        "py-10",
+        "grid",
+        "grid-cols-[repeat(auto-fit,minmax(200px,1fr))]",
+        "gap-8",
+        "text-sm",
+        "font-semibold",
+        "mb-2",
+        "text-lg",
+        "text-gray-300",
+        "leading-relaxed",
+        "space-y-2",
+        "hover:text-white",
+        "hover:translate-x-1",
+        "transition-all",
+        "duration-200",
+        "not-italic",
+        "space-y-1",
+        "flex",
+        "space-x-4",
+        "mt-2",
+        "text-2xl",
+        "hover:scale-110",
+        "transition-transform",
+        "border-t",
+        "border-white/20",
+        "py-4",
+        "text-center",
+        "text-xs"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\gallery-and-events\\GalleryEventsEvents.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 14,
+      "classes": [
+        "flex",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-8",
+        "w-full",
+        "px-4",
+        "text-2xl",
+        "font-medium",
+        "items-stretch",
+        "flex-wrap"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\gallery-and-events\\GalleryEventsImages.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 17,
+      "classes": [
+        "flex",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-8",
+        "text-center",
+        "px-4",
+        "text-2xl",
+        "font-medium",
+        "w-full",
+        "grid",
+        "grid-cols-[repeat(auto-fit,minmax(250px,300px))]",
+        "gap-6",
+        "max-w-6xl",
+        "place-items-center"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\gallery-and-events\\GalleryEventsOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\Header.js": {
+      "hooks": [
+        "useState",
+        "useRef"
+      ],
+      "usesFramer": false,
+      "usesNextImage": true,
+      "usesNextLink": true,
+      "usesNextNav": false,
+      "tailwindCount": 92,
+      "classes": [
+        "sticky",
+        "top-0",
+        "z-50",
+        "bg-white",
+        "shadow",
+        "flex",
+        "items-center",
+        "justify-between",
+        "px-4",
+        "sm:px-6",
+        "lg:px-10",
+        "py-3",
+        "sm:py-4",
+        "lg:py-5",
+        "h-(--header-height)",
+        "cursor-pointer",
+        "hover:scale-105",
+        "transition-transform",
+        "w-12",
+        "sm:w-14",
+        "lg:w-16",
+        "h-auto",
+        "text-xl",
+        "sm:text-2xl",
+        "lg:text-3xl",
+        "font-semibold",
+        "text-center",
+        "flex-1",
+        "select-none",
+        "leading-tight",
+        "tracking-tight",
+        "text-gray-800",
+        "text-red-600",
+        "relative",
+        "text-2xl",
+        "bg-none",
+        "border-none",
+        "absolute",
+        "right-0",
+        "top-full",
+        "mt-3",
+        "rounded-xl",
+        "shadow-lg",
+        "ring-1",
+        "ring-black/5",
+        "flex-col",
+        "min-w-[260px]",
+        "p-2",
+        "transition-all",
+        "duration-200",
+        "ease-out",
+        "opacity-100",
+        "translate-y-0",
+        "menu-item",
+        "group",
+        "text-gray-400",
+        "group-hover:text-gray-600",
+        "submenu",
+        "group-hover:flex",
+        "submenu-item"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [
+        "logo"
+      ],
+      "missingNextImageDimensions": 1
+    },
+    "components\\helper\\CardWithModal.js": {
+      "hooks": [
+        "useState"
+      ],
+      "usesFramer": false,
+      "usesNextImage": true,
+      "usesNextLink": true,
+      "usesNextNav": false,
+      "tailwindCount": 57,
+      "classes": [
+        "w-full",
+        "md:w-[45%]",
+        "flex",
+        "justify-center",
+        "relative",
+        "h-64",
+        "md:h-80",
+        "rounded-xl",
+        "overflow-hidden",
+        "border-0",
+        "bg-gray-900",
+        "object-contain",
+        "flex-col",
+        "gap-4",
+        "flex-1",
+        "text-center",
+        "md:text-left",
+        "text-2xl",
+        "font-semibold",
+        "text-gray-600",
+        "px-4",
+        "py-2",
+        "bg-blue-600",
+        "text-white",
+        "rounded-md",
+        "w-fit",
+        "hover:bg-blue-700",
+        "transition",
+        "hover:scale-105",
+        "md:flex-row",
+        "gap-6",
+        "items-start",
+        "md:w-5/12",
+        "text-gray-700",
+        "md:w-7/12",
+        "text-justify",
+        "self-center"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [
+        "imageSrc"
+      ],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\FullscreenViewer.js": {
+      "hooks": [
+        "useEffect",
+        "useState"
+      ],
+      "usesFramer": true,
+      "usesNextImage": true,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 53,
+      "classes": [
+        "fixed",
+        "inset-0",
+        "bg-black/90",
+        "flex",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "z-999",
+        "relative",
+        "max-w-[95vw]",
+        "max-h-[95vh]",
+        "absolute",
+        "top-4",
+        "right-4",
+        "text-white",
+        "text-3xl",
+        "font-bold",
+        "hover:scale-110",
+        "transition",
+        "left-4",
+        "top-1/2",
+        "-translate-y-1/2",
+        "text-4xl",
+        "rounded-xl",
+        "object-contain",
+        "max-h-[85vh]",
+        "select-none",
+        "text-gray-300",
+        "text-center",
+        "mt-4",
+        "text-base",
+        "px-4",
+        "prose",
+        "prose-invert",
+        "prose-sm",
+        "max-w-none"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [
+        "\r\n                typeof images[currentIndex] === \"string\"\r\n                  ? images[currentIndex]\r\n                  : images[currentIndex].src\r\n              "
+      ],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\ImageCarousel.js": {
+      "hooks": [
+        "useState",
+        "useMemo"
+      ],
+      "usesFramer": true,
+      "usesNextImage": true,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 78,
+      "classes": [
+        "relative",
+        "flex",
+        "flex-col",
+        "items-center",
+        "w-full",
+        "h-64",
+        "md:h-80",
+        "rounded-xl",
+        "overflow-hidden",
+        "bg-gray-900",
+        "object-contain",
+        "cursor-pointer",
+        "text-sm",
+        "text-gray-700",
+        "mt-2",
+        "prose",
+        "prose-sm",
+        "text-center",
+        "justify-between",
+        "mt-3",
+        "px-4",
+        "px-3",
+        "py-1",
+        "bg-gray-200",
+        "rounded",
+        "hover:bg-gray-300",
+        "gap-2",
+        "gap-4",
+        "justify-center",
+        "shrink-0",
+        "rounded-lg",
+        "object-cover",
+        "transition-transform",
+        "hover:scale-[1.03]",
+        "max-w-none",
+        "mt-4",
+        "gap-1"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [
+        "typeof current === \"string\" ? current : current.src",
+        "typeof img === \"string\" ? img : img.src"
+      ],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\MarqueeCarousel.js": {
+      "hooks": [
+        "useRef",
+        "useEffect"
+      ],
+      "usesFramer": false,
+      "usesNextImage": true,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 14,
+      "classes": [
+        "overflow-hidden",
+        "w-full",
+        "flex",
+        "items-center",
+        "shrink-0",
+        "rounded-lg",
+        "justify-center",
+        "object-contain",
+        "hover:scale-110",
+        "transition-transform",
+        "duration-300"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [
+        "item.src"
+      ],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\MiniCardWithModal.js": {
+      "hooks": [
+        "useState",
+        "useEffect"
+      ],
+      "usesFramer": true,
+      "usesNextImage": true,
+      "usesNextLink": true,
+      "usesNextNav": false,
+      "tailwindCount": 68,
+      "classes": [
+        "bg-white",
+        "rounded-xl",
+        "shadow-md",
+        "p-4",
+        "flex",
+        "flex-col",
+        "items-center",
+        "text-center",
+        "w-72",
+        "hover:shadow-lg",
+        "transition-shadow",
+        "duration-300",
+        "object-contain",
+        "rounded-lg",
+        "border-2",
+        "bg-gray-900",
+        "text-lg",
+        "font-semibold",
+        "mb-1",
+        "text-gray-600",
+        "mb-3",
+        "bg-blue-600",
+        "text-white",
+        "px-4",
+        "py-2",
+        "rounded-md",
+        "text-sm",
+        "hover:bg-blue-700",
+        "transition",
+        "hover:scale-105",
+        "fixed",
+        "inset-0",
+        "bg-black/60",
+        "backdrop-blur-sm",
+        "justify-center",
+        "z-100",
+        "absolute",
+        "top-3",
+        "right-3",
+        "hover:text-gray-900",
+        "text-xl",
+        "text-2xl",
+        "mb-4",
+        "object-cover",
+        "cursor-pointer",
+        "text-gray-700",
+        "leading-relaxed",
+        "text-justify",
+        "mt-4"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [
+        "imageSrc"
+      ],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\ModalContainer.js": {
+      "hooks": [
+        "useMemo"
+      ],
+      "usesFramer": true,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 23,
+      "classes": [
+        "fixed",
+        "inset-0",
+        "bg-black/60",
+        "backdrop-blur-sm",
+        "flex",
+        "justify-center",
+        "items-center",
+        "z-100",
+        "overflow-y-auto",
+        "absolute",
+        "top-4",
+        "right-4",
+        "text-gray-600",
+        "hover:text-black",
+        "dark:text-gray-300",
+        "text-2xl",
+        "font-semibold",
+        "mb-4",
+        "text-gray-900",
+        "overflow-visible",
+        "mb-6"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\Overview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 8,
+      "classes": [
+        "text-2xl",
+        "sm:text-3xl",
+        "font-semibold",
+        "text-gray-900",
+        "text-gray-700",
+        "max-w-2xl",
+        "leading-relaxed",
+        "text-justify"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\ProjectSection.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 5,
+      "classes": [
+        "py-0",
+        "w-full",
+        "max-w-6xl",
+        "mx-auto",
+        "px-4"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\SectionWrapper.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "w-full",
+        "max-w-7xl"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\helper\\useMarkdownParser.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 2,
+      "classes": [
+        "text-blue-600",
+        "underline"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\home\\HomeAbout.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": true,
+      "usesNextNav": false,
+      "tailwindCount": 20,
+      "classes": [
+        "flex",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-8",
+        "px-4",
+        "sm:px-8",
+        "lg:px-20",
+        "py-12",
+        "text-center",
+        "bg-blue-600",
+        "text-white",
+        "px-6",
+        "py-2.5",
+        "rounded-lg",
+        "font-medium",
+        "hover:bg-blue-700",
+        "transition-colors",
+        "duration-200",
+        "shadow-sm"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\home\\HomeLanding.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": true,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 25,
+      "classes": [
+        "flex",
+        "flex-col",
+        "md:flex-row",
+        "items-center",
+        "justify-center",
+        "h-full",
+        "gap-12",
+        "text-center",
+        "md:text-left",
+        "gap-4",
+        "text-lg",
+        "text-gray-800",
+        "md:text-right",
+        "h-[50vh]",
+        "w-auto",
+        "md:h-[70vh]"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [
+        "logo"
+      ],
+      "missingNextImageDimensions": 1
+    },
+    "components\\home\\HomePartners.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": true,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 28,
+      "classes": [
+        "flex",
+        "flex-col",
+        "items-center",
+        "text-center",
+        "gap-8",
+        "px-4",
+        "sm:px-8",
+        "lg:px-20",
+        "text-2xl",
+        "sm:text-3xl",
+        "font-semibold",
+        "text-gray-900",
+        "flex-wrap",
+        "justify-center",
+        "gap-10",
+        "sm:gap-12",
+        "w-[100px]",
+        "sm:w-[130px]",
+        "lg:w-[150px]",
+        "object-contain",
+        "opacity-80",
+        "hover:opacity-100",
+        "transition-opacity",
+        "duration-200"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [
+        "p"
+      ],
+      "missingNextImageDimensions": 0
+    },
+    "components\\home\\HomeProjects.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 16,
+      "classes": [
+        "flex",
+        "flex-col",
+        "items-center",
+        "gap-10",
+        "px-4",
+        "sm:px-8",
+        "lg:px-20",
+        "text-center",
+        "text-2xl",
+        "sm:text-3xl",
+        "font-semibold",
+        "text-gray-900",
+        "flex-wrap",
+        "justify-center",
+        "gap-8"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\brownfield-projects\\BrownfieldOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\brownfield-projects\\BrownfieldProjects.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 4,
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-12",
+        "py-12"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\greenfield-projects\\GreenfieldOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\greenfield-projects\\GreenfieldProjects.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 4,
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-12",
+        "py-12"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\indigenization\\IndigenizationOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\indigenization\\IndigenizationProjects.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\ProjectsBrownfield.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\ProjectsGreenfield.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\ProjectsIndigenization.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\ProjectsOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\ProjectsReengineered.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\reengineered-projects\\ReengineeredOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\our-projects\\reengineered-projects\\ReengineeredProjects.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 4,
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-12",
+        "py-12"
+      ],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\patrons-and-partners\\PatronsPartnersCarousel.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 12,
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-16",
+        "px-4",
+        "text-2xl",
+        "font-medium",
+        "text-center",
+        "mb-6"
+      ],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "components\\patrons-and-partners\\PatronsPartnersOverview.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\about-us\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\about-us\\people-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\about-us\\text-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\awards-and-achievements\\awards-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\awards-and-achievements\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\consultancy-services\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\consultancy-services\\project-management\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\consultancy-services\\project-management\\services-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\consultancy-services\\research-and-development\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\consultancy-services\\research-and-development\\services-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\consultancy-services\\section-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\consultancy-services\\skill-development-and-placement\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\consultancy-services\\skill-development-and-placement\\services-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\gallery-and-events\\events-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\gallery-and-events\\gallery-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\gallery-and-events\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\home\\about-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\home\\projects-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\brownfield-projects\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\brownfield-projects\\projects-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\greenfield-projects\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\greenfield-projects\\projects-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\indigenization\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\indigenization\\projects-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\reengineered-projects\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\reengineered-projects\\projects-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\our-projects\\section-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "data\\patrons-and-partners\\overview-data.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "postcss.config.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    },
+    "scripts\\generate-project-map.js": {
+      "hooks": [
+        "useState",
+        "useEffect",
+        "useRef",
+        "useMemo",
+        "useCallback",
+        "useContext"
+      ],
+      "usesFramer": false,
+      "usesNextImage": true,
+      "usesNextLink": true,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": true,
+      "hasModalName": true,
+      "imgRefs": [],
+      "missingNextImageDimensions": 4
+    },
+    "tailwind.config.js": {
+      "hooks": [],
+      "usesFramer": false,
+      "usesNextImage": false,
+      "usesNextLink": false,
+      "usesNextNav": false,
+      "tailwindCount": 0,
+      "classes": [],
+      "hasForm": false,
+      "hasModalName": false,
+      "imgRefs": [],
+      "missingNextImageDimensions": 0
+    }
+  },
+  "topTailwind": [
+    [
+      "flex",
+      41
+    ],
+    [
+      "flex-col",
+      37
+    ],
+    [
+      "text-2xl",
+      15
+    ],
+    [
+      "justify-center",
+      15
+    ],
+    [
+      "items-center",
+      14
+    ],
+    [
+      "text-center",
+      14
+    ],
+    [
+      "font-semibold",
+      12
+    ],
+    [
+      "px-4",
+      12
+    ],
+    [
+      "w-full",
+      11
+    ],
+    [
+      "gap-8",
+      9
+    ],
+    [
+      "py-12",
+      8
+    ],
+    [
+      "gap-12",
+      7
+    ],
+    [
+      "rounded-xl",
+      7
+    ],
+    [
+      "text-gray-900",
+      6
+    ],
+    [
+      "flex-wrap",
+      6
+    ],
+    [
+      "font-medium",
+      6
+    ],
+    [
+      "text-white",
+      6
+    ],
+    [
+      "object-contain",
+      6
+    ],
+    [
+      "sm:text-3xl",
+      5
+    ],
+    [
+      "flex-1",
+      5
+    ],
+    [
+      "text-gray-700",
+      5
+    ],
+    [
+      "gap-10",
+      4
+    ],
+    [
+      "lg:px-20",
+      4
+    ],
+    [
+      "bg-blue-600",
+      4
+    ],
+    [
+      "hover:bg-blue-700",
+      4
+    ],
+    [
+      "gap-4",
+      4
+    ],
+    [
+      "overflow-hidden",
+      4
+    ],
+    [
+      "duration-200",
+      4
+    ],
+    [
+      "transition-transform",
+      4
+    ],
+    [
+      "relative",
+      4
+    ],
+    [
+      "absolute",
+      4
+    ],
+    [
+      "rounded-lg",
+      4
+    ],
+    [
+      "grid",
+      3
+    ],
+    [
+      "px-6",
+      3
+    ],
+    [
+      "mx-auto",
+      3
+    ],
+    [
+      "rounded-md",
+      3
+    ],
+    [
+      "py-2",
+      3
+    ],
+    [
+      "shadow-md",
+      3
+    ],
+    [
+      "text-gray-800",
+      3
+    ],
+    [
+      "mt-2",
+      3
+    ],
+    [
+      "text-sm",
+      3
+    ],
+    [
+      "text-lg",
+      3
+    ],
+    [
+      "leading-relaxed",
+      3
+    ],
+    [
+      "hover:scale-110",
+      3
+    ],
+    [
+      "cursor-pointer",
+      3
+    ],
+    [
+      "hover:scale-105",
+      3
+    ],
+    [
+      "bg-gray-900",
+      3
+    ],
+    [
+      "text-gray-600",
+      3
+    ],
+    [
+      "transition",
+      3
+    ],
+    [
+      "text-justify",
+      3
+    ]
+  ],
+  "orphanImages": [
+    "public\\about-us\\amir.jpg",
+    "public\\about-us\\DJK PIC.png",
+    "public\\about-us\\MJK.png",
+    "public\\awards-and-achievements\\placeholder.jpg",
+    "public\\consultancy-services\\placeholder.jpg",
+    "public\\consultancy-services\\project-management\\placeholder.jpg",
+    "public\\consultancy-services\\research-and-development\\placeholder.jpg",
+    "public\\consultancy-services\\skill-development-and-placement\\placeholder.jpg",
+    "public\\file.svg",
+    "public\\gallery-and-events\\placeholder.jpg",
+    "public\\globe.svg",
+    "public\\home\\placeholder.jpg",
+    "public\\logos\\nRoot-Logo.png",
+    "public\\next.svg",
+    "public\\our-projects\\brownfield-projects\\placeholder.jpg",
+    "public\\our-projects\\greenfield-projects\\placeholder.jpg",
+    "public\\our-projects\\indigenization\\ASHA\\1.jpg",
+    "public\\our-projects\\indigenization\\ASHA\\2.jpg",
+    "public\\our-projects\\indigenization\\DRISHTI\\1.png",
+    "public\\our-projects\\indigenization\\EPITOME\\1.jpg",
+    "public\\our-projects\\indigenization\\EPITOME\\2.jpg",
+    "public\\our-projects\\indigenization\\EPITOME\\3.png",
+    "public\\our-projects\\indigenization\\NANDI\\1.png",
+    "public\\our-projects\\indigenization\\placeholder.jpg",
+    "public\\our-projects\\indigenization\\RAHMAT\\1.png",
+    "public\\our-projects\\indigenization\\VEDAN\\1.png",
+    "public\\our-projects\\indigenization\\VIMS\\1.png",
+    "public\\our-projects\\indigenization\\VIMS\\2.png",
+    "public\\our-projects\\placeholder.jpg",
+    "public\\our-projects\\reengineered-projects\\placeholder.jpg",
+    "public\\patrons-and-partners\\placeholder.jpg",
+    "public\\vercel.svg",
+    "public\\window.svg"
+  ],
+  "largeFiles": [
+    {
+      "path": "public\\about-us\\amir.jpg",
+      "sizeKB": 237
+    },
+    {
+      "path": "public\\about-us\\DJK PIC.png",
+      "sizeKB": 452
+    },
+    {
+      "path": "public\\awards-and-achievements\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\consultancy-services\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\consultancy-services\\project-management\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\consultancy-services\\research-and-development\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\consultancy-services\\skill-development-and-placement\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\gallery-and-events\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\home\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\logos\\nRoot-Logo.png",
+      "sizeKB": 5953
+    },
+    {
+      "path": "public\\our-projects\\brownfield-projects\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\our-projects\\greenfield-projects\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\ASHA\\1.jpg",
+      "sizeKB": 536
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\DRISHTI\\1.png",
+      "sizeKB": 248
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\EPITOME\\2.jpg",
+      "sizeKB": 245
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\EPITOME\\3.png",
+      "sizeKB": 397
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\NANDI\\1.png",
+      "sizeKB": 740
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\RAHMAT\\1.png",
+      "sizeKB": 456
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\VEDAN\\1.png",
+      "sizeKB": 276
+    },
+    {
+      "path": "public\\our-projects\\indigenization\\VIMS\\2.png",
+      "sizeKB": 541
+    },
+    {
+      "path": "public\\our-projects\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\our-projects\\reengineered-projects\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "public\\patrons-and-partners\\placeholder.jpg",
+      "sizeKB": 10363
+    },
+    {
+      "path": "scripts\\output\\mermaid-tree.mmd",
+      "sizeKB": 24361
+    },
+    {
+      "path": "scripts\\output\\project-map.json",
+      "sizeKB": 254
+    },
+    {
+      "path": "structure.txt",
+      "sizeKB": 12859
+    }
+  ],
+  "duplicates": [
+    [
+      "public\\awards-and-achievements\\placeholder.jpg",
+      "public\\consultancy-services\\placeholder.jpg",
+      "public\\consultancy-services\\project-management\\placeholder.jpg",
+      "public\\consultancy-services\\research-and-development\\placeholder.jpg",
+      "public\\consultancy-services\\skill-development-and-placement\\placeholder.jpg",
+      "public\\gallery-and-events\\placeholder.jpg",
+      "public\\home\\placeholder.jpg",
+      "public\\our-projects\\brownfield-projects\\placeholder.jpg",
+      "public\\our-projects\\greenfield-projects\\placeholder.jpg",
+      "public\\our-projects\\indigenization\\placeholder.jpg",
+      "public\\our-projects\\placeholder.jpg",
+      "public\\our-projects\\reengineered-projects\\placeholder.jpg",
+      "public\\patrons-and-partners\\placeholder.jpg"
+    ]
+  ],
+  "depGraph": {
+    "app\\about-us\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/about-us/AboutOverview",
+      "@/components/about-us/AboutPeople",
+      "@/components/about-us/AboutText"
+    ],
+    "app\\awards-and-achievements\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/awards-and-achievements/AwardsOverview",
+      "@/components/awards-and-achievements/AwardsList"
+    ],
+    "app\\consultancy-services\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/consultancy-services/ConsultancyOverview",
+      "@/components/consultancy-services/ConsultancyProjectManagement",
+      "@/components/consultancy-services/ConsultancyResearchAndDevelopment",
+      "@/components/consultancy-services/ConsultancySkillDevelopmentPlacement"
+    ],
+    "app\\consultancy-services\\project-management\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/consultancy-services/project-management/ProjectManagementOverview",
+      "@/components/consultancy-services/project-management/ProjectManagementServices"
+    ],
+    "app\\consultancy-services\\research-and-development\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/consultancy-services/research-and-development/ResearchAndDevelopmentOverview",
+      "@/components/consultancy-services/research-and-development/ResearchAndDevelopmentServices"
+    ],
+    "app\\consultancy-services\\skill-development-and-placement\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/consultancy-services/skill-development-and-placement/SkillDevelopmentPlacementOverview",
+      "@/components/consultancy-services/skill-development-and-placement/SkillDevelopmentPlacementServices"
+    ],
+    "app\\contact-us\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/contact-us/ContactForm",
+      "@/components/contact-us/ContactDetails"
+    ],
+    "app\\gallery-and-events\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/gallery-and-events/GalleryEventsOverview",
+      "@/components/gallery-and-events/GalleryEventsEvents",
+      "@/components/gallery-and-events/GalleryEventsImages"
+    ],
+    "app\\layout.js": [
+      "@/components/Header",
+      "@/components/Footer"
+    ],
+    "app\\our-projects\\brownfield-projects\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/our-projects/brownfield-projects/BrownfieldOverview",
+      "@/components/our-projects/brownfield-projects/BrownfieldProjects"
+    ],
+    "app\\our-projects\\greenfield-projects\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/our-projects/greenfield-projects/GreenfieldOverview",
+      "@/components/our-projects/greenfield-projects/GreenfieldProjects"
+    ],
+    "app\\our-projects\\indigenization\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/our-projects/indigenization/IndigenizationOverview",
+      "@/components/our-projects/indigenization/IndigenizationProjects"
+    ],
+    "app\\our-projects\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/our-projects/ProjectsOverview",
+      "@/components/our-projects/ProjectsBrownfield",
+      "@/components/our-projects/ProjectsGreenfield",
+      "@/components/our-projects/ProjectsIndigenization",
+      "@/components/our-projects/ProjectsReengineered"
+    ],
+    "app\\our-projects\\reengineered-projects\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/our-projects/reengineered-projects/ReengineeredOverview",
+      "@/components/our-projects/reengineered-projects/ReengineeredProjects"
+    ],
+    "app\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/home/HomeLanding",
+      "@/components/home/HomeAbout",
+      "@/components/home/HomeProjects",
+      "@/components/home/HomePartners"
+    ],
+    "app\\patrons-and-partners\\page.js": [
+      "@/components/helper/SectionWrapper",
+      "@/components/patrons-and-partners/PatronsPartnersOverview",
+      "@/components/patrons-and-partners/PatronsPartnersCarousel"
+    ],
+    "components\\about-us\\AboutOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/about-us/overview-data"
+    ],
+    "components\\about-us\\AboutPeople.js": [
+      "@/components/helper/MiniCardWithModal",
+      "@/data/about-us/people-data"
+    ],
+    "components\\about-us\\AboutText.js": [
+      "@/components/helper/Overview",
+      "@/data/about-us/text-data"
+    ],
+    "components\\awards-and-achievements\\AwardsList.js": [
+      "@/components/helper/MiniCardWithModal",
+      "@/data/awards-and-achievements/awards-data"
+    ],
+    "components\\awards-and-achievements\\AwardsOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/awards-and-achievements/overview-data"
+    ],
+    "components\\consultancy-services\\ConsultancyOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/consultancy-services/overview-data"
+    ],
+    "components\\consultancy-services\\ConsultancyProjectManagement.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/consultancy-services/section-data"
+    ],
+    "components\\consultancy-services\\ConsultancyResearchAndDevelopment.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/consultancy-services/section-data"
+    ],
+    "components\\consultancy-services\\ConsultancySkillDevelopmentPlacement.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/consultancy-services/section-data"
+    ],
+    "components\\consultancy-services\\project-management\\ProjectManagementOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/consultancy-services/project-management/overview-data"
+    ],
+    "components\\consultancy-services\\project-management\\ProjectManagementServices.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/consultancy-services/project-management/services-data"
+    ],
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/consultancy-services/research-and-development/overview-data"
+    ],
+    "components\\consultancy-services\\research-and-development\\ResearchAndDevelopmentServices.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/consultancy-services/research-and-development/services-data"
+    ],
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/consultancy-services/skill-development-and-placement/overview-data"
+    ],
+    "components\\consultancy-services\\skill-development-and-placement\\SkillDevelopmentPlacementServices.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/consultancy-services/skill-development-and-placement/services-data"
+    ],
+    "components\\contact-us\\ContactDetails.js": [
+      "components\\contact-us\\ContactInfo.js",
+      "components\\contact-us\\ContactMap.js"
+    ],
+    "components\\contact-us\\ContactForm.js": [
+      "react"
+    ],
+    "components\\contact-us\\ContactInfo.js": [],
+    "components\\contact-us\\ContactMap.js": [],
+    "components\\Footer.js": [],
+    "components\\gallery-and-events\\GalleryEventsEvents.js": [
+      "@/components/helper/MiniCardWithModal",
+      "@/data/gallery-and-events/events-data"
+    ],
+    "components\\gallery-and-events\\GalleryEventsImages.js": [
+      "@/components/helper/MiniCardWithModal",
+      "@/data/gallery-and-events/gallery-data"
+    ],
+    "components\\gallery-and-events\\GalleryEventsOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/gallery-and-events/overview-data"
+    ],
+    "components\\Header.js": [
+      "next/link",
+      "next/image",
+      "@/public/logos/nRoot-Logo.png",
+      "react"
+    ],
+    "components\\helper\\CardWithModal.js": [
+      "react",
+      "next/image",
+      "next/link",
+      "@/components/helper/ModalContainer",
+      "@/components/helper/ImageCarousel",
+      "@/components/helper/FullscreenViewer",
+      "@/components/helper/useMarkdownParser"
+    ],
+    "components\\helper\\FullscreenViewer.js": [
+      "react",
+      "next/image",
+      "framer-motion",
+      "react-icons/hi",
+      "@/components/helper/useMarkdownParser"
+    ],
+    "components\\helper\\ImageCarousel.js": [
+      "react",
+      "next/image",
+      "framer-motion",
+      "react-icons/hi",
+      "@/components/helper/useMarkdownParser"
+    ],
+    "components\\helper\\MarqueeCarousel.js": [
+      "next/image",
+      "react"
+    ],
+    "components\\helper\\MiniCardWithModal.js": [
+      "react",
+      "next/image",
+      "next/link",
+      "framer-motion",
+      "react-icons/hi",
+      "components\\helper\\ImageCarousel.js",
+      "components\\helper\\FullscreenViewer.js",
+      "@/components/helper/useMarkdownParser"
+    ],
+    "components\\helper\\ModalContainer.js": [
+      "framer-motion",
+      "lucide-react",
+      "react",
+      "components\\helper\\ImageCarousel.js"
+    ],
+    "components\\helper\\Overview.js": [
+      "components\\helper\\useMarkdownParser.js"
+    ],
+    "components\\helper\\ProjectSection.js": [
+      "components\\helper\\SectionWrapper.js"
+    ],
+    "components\\helper\\SectionWrapper.js": [],
+    "components\\helper\\useMarkdownParser.js": [],
+    "components\\home\\HomeAbout.js": [
+      "next/link",
+      "@/components/helper/Overview",
+      "@/data/home/about-data"
+    ],
+    "components\\home\\HomeLanding.js": [
+      "next/image",
+      "@/public/logos/nRoot-Logo.png"
+    ],
+    "components\\home\\HomePartners.js": [
+      "next/image"
+    ],
+    "components\\home\\HomeProjects.js": [
+      "@/components/helper/MiniCardWithModal",
+      "@/data/home/projects-data"
+    ],
+    "components\\our-projects\\brownfield-projects\\BrownfieldOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/our-projects/brownfield-projects/overview-data"
+    ],
+    "components\\our-projects\\brownfield-projects\\BrownfieldProjects.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/our-projects/brownfield-projects/projects-data"
+    ],
+    "components\\our-projects\\greenfield-projects\\GreenfieldOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/our-projects/greenfield-projects/overview-data"
+    ],
+    "components\\our-projects\\greenfield-projects\\GreenfieldProjects.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/our-projects/greenfield-projects/projects-data"
+    ],
+    "components\\our-projects\\indigenization\\IndigenizationOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/our-projects/indigenization/overview-data"
+    ],
+    "components\\our-projects\\indigenization\\IndigenizationProjects.js": [
+      "@/components/helper/ProjectSection",
+      "@/components/helper/CardWithModal",
+      "@/data/our-projects/indigenization/projects-data"
+    ],
+    "components\\our-projects\\ProjectsBrownfield.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/our-projects/section-data"
+    ],
+    "components\\our-projects\\ProjectsGreenfield.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/our-projects/section-data"
+    ],
+    "components\\our-projects\\ProjectsIndigenization.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/our-projects/section-data"
+    ],
+    "components\\our-projects\\ProjectsOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/our-projects/overview-data"
+    ],
+    "components\\our-projects\\ProjectsReengineered.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/our-projects/section-data"
+    ],
+    "components\\our-projects\\reengineered-projects\\ReengineeredOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/our-projects/reengineered-projects/overview-data"
+    ],
+    "components\\our-projects\\reengineered-projects\\ReengineeredProjects.js": [
+      "@/components/helper/CardWithModal",
+      "@/data/our-projects/reengineered-projects/projects-data"
+    ],
+    "components\\patrons-and-partners\\PatronsPartnersCarousel.js": [
+      "@/components/helper/MarqueeCarousel"
+    ],
+    "components\\patrons-and-partners\\PatronsPartnersOverview.js": [
+      "@/components/helper/Overview",
+      "@/data/patrons-and-partners/overview-data"
+    ],
+    "data\\about-us\\overview-data.js": [],
+    "data\\about-us\\people-data.js": [],
+    "data\\about-us\\text-data.js": [],
+    "data\\awards-and-achievements\\awards-data.js": [],
+    "data\\awards-and-achievements\\overview-data.js": [],
+    "data\\consultancy-services\\overview-data.js": [],
+    "data\\consultancy-services\\project-management\\overview-data.js": [],
+    "data\\consultancy-services\\project-management\\services-data.js": [
+      "@/public/consultancy-services/project-management/placeholder.jpg"
+    ],
+    "data\\consultancy-services\\research-and-development\\overview-data.js": [],
+    "data\\consultancy-services\\research-and-development\\services-data.js": [
+      "@/public/consultancy-services/research-and-development/placeholder.jpg"
+    ],
+    "data\\consultancy-services\\section-data.js": [
+      "@/public/consultancy-services/placeholder.jpg"
+    ],
+    "data\\consultancy-services\\skill-development-and-placement\\overview-data.js": [],
+    "data\\consultancy-services\\skill-development-and-placement\\services-data.js": [
+      "@/public/consultancy-services/skill-development-and-placement/placeholder.jpg"
+    ],
+    "data\\gallery-and-events\\events-data.js": [],
+    "data\\gallery-and-events\\gallery-data.js": [],
+    "data\\gallery-and-events\\overview-data.js": [],
+    "data\\home\\about-data.js": [],
+    "data\\home\\projects-data.js": [],
+    "data\\our-projects\\brownfield-projects\\overview-data.js": [],
+    "data\\our-projects\\brownfield-projects\\projects-data.js": [
+      "@/public/our-projects/brownfield-projects/placeholder.jpg"
+    ],
+    "data\\our-projects\\greenfield-projects\\overview-data.js": [],
+    "data\\our-projects\\greenfield-projects\\projects-data.js": [
+      "@/public/our-projects/greenfield-projects/placeholder.jpg"
+    ],
+    "data\\our-projects\\indigenization\\overview-data.js": [],
+    "data\\our-projects\\indigenization\\projects-data.js": [],
+    "data\\our-projects\\overview-data.js": [],
+    "data\\our-projects\\reengineered-projects\\overview-data.js": [],
+    "data\\our-projects\\reengineered-projects\\projects-data.js": [
+      "@/public/our-projects/reengineered-projects/placeholder.jpg"
+    ],
+    "data\\our-projects\\section-data.js": [
+      "@/public/our-projects/placeholder.jpg",
+      "@/public/our-projects/greenfield-projects/placeholder.jpg",
+      "@/public/our-projects/indigenization/placeholder.jpg",
+      "@/public/our-projects/reengineered-projects/placeholder.jpg"
+    ],
+    "data\\patrons-and-partners\\overview-data.js": [],
+    "postcss.config.js": [],
+    "scripts\\generate-project-map.js": [
+      "fs",
+      "path",
+      "crypto"
+    ],
+    "tailwind.config.js": []
+  },
+  "suggestions": [
+    "Found 53 component files that are not imported anywhere (possible dead code). Consider removing or consolidating them.",
+    "Found 1 groups of duplicate files. Consider consolidating duplicates to reduce maintenance.",
+    "Found 27 large files (>= 200 KB). Consider optimizing images or moving to a CDN.",
+    "Some files use <Image> without width/height or fill; consider adding dimensions or using fill with aspect-ratio container for Next.js optimization."
+  ]
+}

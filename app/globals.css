@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    /* Header height — easily editable */
+    --header-height: 14vh;
+  }
+
+  html,
+  body {
+    @apply min-h-screen w-full scroll-smooth antialiased;
+    scroll-padding-top: var(--header-height);
+  }
+
+  body {
+    @apply bg-white text-gray-900;
+  }
+
+  main {
+    @apply flex flex-col;
+  }
+
+  /* Section fills remaining screen height dynamically */
+  section {
+    min-height: calc(100dvh - var(--header-height));
+    @apply flex items-center justify-center;
+  }
+
+  /* Main menu item */
+  .menu-item {
+    @apply px-4 py-3 rounded-md text-gray-700 hover:bg-gray-100 transition-colors duration-150;
+  }
+
+  /* Submenu wrapper */
+  .submenu {
+    @apply hidden flex-col absolute top-0 right-full translate-x-1 bg-white rounded-lg shadow-lg ring-1 ring-black/5
+           min-w-[220px] p-2 mt-2 opacity-0 scale-95 transition-all duration-200 ease-in-out;
+  }
+
+  /* Show submenu smoothly on hover */
+  .group:hover .submenu {
+    @apply flex opacity-100 scale-100;
+  }
+
+  /* Submenu individual item */
+  .submenu-item {
+    @apply px-4 py-2 rounded-md text-gray-700 hover:bg-gray-100 transition-colors duration-150;
+  }
+
+  /* Footer Styles */
+  .footer-title {
+    @apply text-base sm:text-lg font-semibold mb-3 text-white;
+  }
+
+  .footer-text {
+    @apply text-gray-300 leading-relaxed;
+  }
+
+  .footer-link {
+    @apply text-gray-300 hover:text-white transition-colors duration-150;
+  }
+
+  .footer-social {
+    @apply text-lg hover:scale-110 transition-transform duration-150 cursor-pointer;
+  }
+
+  /* globals.css */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
